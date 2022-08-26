@@ -1,2 +1,1 @@
-# ROBLOX-XSS
-New + Improved, unpatched XSS method (credits to me, veiyo) 
+Follow & refresh for access to this repository.
